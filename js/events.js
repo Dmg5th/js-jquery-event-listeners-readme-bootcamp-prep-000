@@ -30,5 +30,6 @@ function submitIt(){
 }
 
 frameIt();
-
+pressIt();
+submitIt();
   

@@ -22,4 +22,8 @@ function pressIt(){
     }
   });
 }
+
+function submitIt(){
+  
+}
   
